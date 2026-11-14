@@ -1,0 +1,38 @@
+Screen Structure
+1. Login
+
+Astronaut access (AI facial recognition – future improvement)
+
+2. Profile
+- Personal information
+- Current mission
+- Medical information (according to the doctors)
+- General health history
+- Evolution of health indicators throughout missions
+3. Dashboard — Health Monitoring
+
+3.1 General Overview
+- Health quality (%)
+- General status
+- Alerts
+- Last assessment (date and time)
+3.2 Brain — Brain & Balance
+- Balance / spatial orientation (gyroscope)
+- EEG
+- Sleep
+- Concentration
+- Mood
+3.3 Blood & Heart — Cardiovascular System
+- Heart rate
+- Blood pressure
+- Blood vessels
+- Blood flow
+3.4 Radiation & Temperature
+- Radiation exposure
+- Body temperature
+- Exposure alerts
+3.5 Muscles, Nerves & Bones
+- Muscle health
+- Nervous system
+- Bone density
+- Mobility
