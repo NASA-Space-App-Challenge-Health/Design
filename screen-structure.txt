@@ -1,38 +1,45 @@
 Screen Structure
-1. Login
 
-Astronaut access (AI facial recognition – future improvement)
+1.  OVERVIEW
+2.  BRAIN & BALANCE
+3.  BLOOD & HEART
+4.  RADIATION & TEMP
+5.  MUSCLES & BONES
+6.  DATA INSIGHTS
+7.  ABOUT US
+8.  HELP REQUESTING
 
-2. Profile
-- Personal information
-- Current mission
-- Medical information (according to the doctors)
-- General health history
-- Evolution of health indicators throughout missions
-3. Dashboard — Health Monitoring
+SCREEN STRUCTURE SUMMARY 
+1. OVERVIEW
 
-3.1 General Overview
-- Health quality (%)
-- General status
-- Alerts
-- Last assessment (date and time)
-3.2 Brain — Brain & Balance
-- Balance / spatial orientation (gyroscope)
-- EEG
-- Sleep
-- Concentration
-- Mood
-3.3 Blood & Heart — Cardiovascular System
-- Heart rate
-- Blood pressure
-- Blood vessels
-- Blood flow
-3.4 Radiation & Temperature
-- Radiation exposure
-- Body temperature
-- Exposure alerts
-3.5 Muscles, Nerves & Bones
-- Muscle health
-- Nervous system
-- Bone density
-- Mobility
+- Header & Body Map: Crew ID, status, quick actions, and interactive body map.
+- Alerts & Actions: Kidney marker action card and critical radiation contingency banner.
+- Systems & Labs Summary.
+
+2. BRAIN & BALANCE
+- Sleep & Cortisol.
+
+3. BLOOD & HEART
+- Vitals.
+- Blood Panels.
+- Trends & Forecast.
+
+4. RADIATION & TEMP
+- Radiation Replay: Interactive DosTel playback chart with speed controls.
+- Space Weather & Dose.
+- Suit Telemetry.
+
+5. MUSCLES & BONES
+- Critical Alert.
+- Empty State & Guidance.
+
+6. DATA INSIGHTS
+- Global Filters & KPIs: Topic/view toggles, out-of-range filter, and total counters.
+- Analytics
+
+7. ABOUT US
+- Project & Team: NASA Space Apps 2026 context, tribute to Dr. Thais Russomano, and team member cards with LinkedIn links.
+- Repository & Disclaimer: GitHub link and educational/non-diagnostic notice.
+
+8. HELP REQUESTING (Crew Medical Officer and Flight surgeon)
+
